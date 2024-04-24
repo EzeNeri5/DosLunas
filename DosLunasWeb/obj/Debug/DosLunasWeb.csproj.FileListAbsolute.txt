@@ -1,0 +1,8 @@
+C:\Users\Eze\Documents\Visual Studio 2010\Projects\DosLunasWeb\DosLunasWeb\bin\DosLunasWeb.dll
+C:\Users\Eze\Documents\Visual Studio 2010\Projects\DosLunasWeb\DosLunasWeb\bin\DosLunasWeb.pdb
+C:\Users\Eze\Documents\Visual Studio 2010\Projects\DosLunasWeb\DosLunasWeb\obj\Debug\DosLunasWeb.dll
+C:\Users\Eze\Documents\Visual Studio 2010\Projects\DosLunasWeb\DosLunasWeb\obj\Debug\DosLunasWeb.pdb
+C:\Users\Eze\Desktop\DosLunas\DosLunasWeb\bin\DosLunasWeb.dll
+C:\Users\Eze\Desktop\DosLunas\DosLunasWeb\bin\DosLunasWeb.pdb
+C:\Users\Eze\Desktop\DosLunas\DosLunasWeb\obj\Debug\DosLunasWeb.dll
+C:\Users\Eze\Desktop\DosLunas\DosLunasWeb\obj\Debug\DosLunasWeb.pdb
