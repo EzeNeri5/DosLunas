@@ -625,7 +625,7 @@ a:hover, a:active {
 /*======Page Header=============*/
 
 .top-header {
-	/*background: #1c3961;*/
+	background: #1c3961;
 }
 
 .top-header a {
@@ -975,7 +975,7 @@ ul > li {
 	position: absolute;
 	left: 5%;
 	top: 44%;
-	/*background: #009450;*/
+	background: #1c3961;
 	padding: 0.9375em 3.5625em 1em 3.5625em;
 	/*font-size: 1.8rem;*/
 	/*font-family: "Raleway", sans-serif;*/
