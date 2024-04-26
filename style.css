@@ -1406,6 +1406,7 @@ ul > li {
 
 .query-section .container {
 	padding: 2.25em 1em;
+	text-align: center;
 }
 
 .query-section .container p {
@@ -1418,6 +1419,7 @@ ul > li {
 	/*text-decoration: none;*/
 	/*color: #1c3961;*/
 	margin-left: 4.1667em;
+	
 }
 /*=======Page Footer================*/
 
