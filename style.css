@@ -2194,6 +2194,7 @@ aside .news-letter hr {
 	justify-content: space-between;
 	padding-top: 6.25em;
 	padding-bottom: 6.25em;
+	align-self:center;
 }
 
 .contact-page-section .people-info-wrap {
